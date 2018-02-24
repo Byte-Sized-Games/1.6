@@ -1,0 +1,9 @@
+layer=1
+alpha = 0;
+print = "";
+time = 0;
+spd=global.spd
+myspd=spd
+depth = depth - instance_number(obj_text);
+done=0
+global.test+=1

@@ -1,0 +1,17 @@
+each npc has a variation of this code in CC:
+
+if global.events=6 mode=global.events
+else if global.events=7 mode=global.events
+else instance_destroy()
+
+
+
+EVENTS
+1=cutscene
+2=wake up
+3= graduation
+4= meet charlie
+4=archives
+5=harold
+6=choose your group
+7=takeoff

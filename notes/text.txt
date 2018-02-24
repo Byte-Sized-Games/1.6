@@ -1,0 +1,4 @@
+scr_text(what to write here,1,font);
+
+Hashtag = Enter
+;break; = End
